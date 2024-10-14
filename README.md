@@ -1,7 +1,7 @@
 I’ve included two selections. One to illustrate the type of small decisions made within a project, including the thinking behind ensuring a reasonable level of performance. While the second is an example of a small project that accomplished a production goal. 
 
 ### First Example: Shortest Graph Path Example
-[Maximum Probability Path.ipynb](https://pages.github.com/)
+[Maximum Probability Path.ipynb](https://github.com/vatir/keck_code_samples/blob/main/Maximum%20Probability%20Path.ipynb)
 
 #### Background Requirements:
 
@@ -12,7 +12,7 @@ Given a collection of entities and a probability of transferring between them, w
 I find the importance of problems such as these happen at the higher levels of abstraction. If the entire problem is contained in this type of framing, one can usually jump to trusted libraries for finding an efficient solution. Though, all too often at higher levels of abstraction it’s both trickier to handle the calls from within a library and easier to forget you need the improved complexity of using a more efficient algorithm. 
 
 ### Second Example: GCE -> S3 Sync System
-[GCE_to_S3_Update_System](https://pages.github.com/)
+[GCE_to_S3_Update_System](https://github.com/vatir/keck_code_samples/tree/main/GCE_to_S3_Update_System)
 
 #### Project Selection Rationale:
 
