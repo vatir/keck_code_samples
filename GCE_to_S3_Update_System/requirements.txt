@@ -1,0 +1,4 @@
+boto3==1.9.156
+google-cloud-storage==1.16.0
+google-auth==1.6.3
+requests==2.22.0
